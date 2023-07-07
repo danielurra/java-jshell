@@ -39,6 +39,13 @@ System.out.println("Hello JDK 19!")
 ```
 ![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
 ## Biggest Integer possible with 32 bits
+```bash
+jshell> int biggestInt = 3;
+biggestInt ==> 3
+
+jshell> biggestInt = Integer.MAX_VALUE;
+biggestInt ==> 2147483647
+```
 ![biggest-integer](https://github.com/danielurra/java-jshell/assets/51704179/bc8e89c0-67e3-4865-89b5-3adc1f1deb5a)
 
 ## Seeing documentation
