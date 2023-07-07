@@ -46,7 +46,7 @@ biggestInt ==> 3
 jshell> biggestInt = Integer.MAX_VALUE;
 biggestInt ==> 2147483647
 ```
-![biggest-integer](https://github.com/danielurra/java-jshell/assets/51704179/bc8e89c0-67e3-4865-89b5-3adc1f1deb5a)
+![biggest-integer-v2](https://github.com/danielurra/java-jshell/assets/51704179/bb498d1f-4c11-46e6-aeda-00a5aeb1b369)
 
 ## Seeing documentation
 Use the `TAB` key of your keyboard **twice** to see the built-in documentation
