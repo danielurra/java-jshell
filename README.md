@@ -38,6 +38,9 @@ jshell
 System.out.println("Hello JDK 19!")
 ```
 ![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
+## Biggest Integer possible with 32 bits
+![biggest-integer](https://github.com/danielurra/java-jshell/assets/51704179/bc8e89c0-67e3-4865-89b5-3adc1f1deb5a)
+
 ## Seeing documentation
 Use the `TAB` key of your keyboard **twice** to see the built-in documentation
 ![jshell-use-TAB-to-see-signatures-documentation](https://github.com/danielurra/java/assets/51704179/f9c5ecfa-1b8f-4e6c-b435-f37ad04a7686)
