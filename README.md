@@ -1,5 +1,5 @@
 # Java JShell
-![java-220x110px](https://github.com/danielurra/java-jshell/assets/51704179/34ad2576-5bfb-4b95-96e4-3675e4723886)
+![java-jshell-with-terminal-icon](https://github.com/danielurra/java-jshell/assets/51704179/bea13ade-81de-40ea-8ab8-18c0fecb328e)
 
 ## JShell
 Those of you who are new to Java programming, could take advantage of "JShell" which is often helpful for trying out the code snippets.<br>
