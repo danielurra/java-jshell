@@ -23,3 +23,27 @@ If we don’t use Jshell, creating of Java program involves the following steps.
 Jshell does not require above steps. We can evaluate statements, methods and classes, even can write hello program without creating class.<br>
 JShell helps you try out code and easily explore options as you develop your program.<br>
 ## Java version
+```bash
+java --version
+```
+![jshell-00](https://github.com/danielurra/java/assets/51704179/d18fbe3a-35ac-4088-a9c7-fca64626d53d)
+## Launch JShell
+```bash
+jshell
+```
+![jshell-01](https://github.com/danielurra/java/assets/51704179/45345190-7348-4e1d-8361-ad5883d8442f)
+## Eexecute your first Java snippet of code
+**No semicolons needed**</br>
+```bash
+System.out.println("Hello JDK 19!")
+```
+![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
+## Seeing documentation
+Use the `TAB` key of your keyboard **twice** to see the built-in documentation
+![jshell-use-TAB-to-see-signatures-documentation](https://github.com/danielurra/java/assets/51704179/f9c5ecfa-1b8f-4e6c-b435-f37ad04a7686)
+
+## Exit JShell
+```bash
+/exit
+```
+![jshell-03](https://github.com/danielurra/java/assets/51704179/0370a258-e7b6-4354-9803-76bab3890759)
