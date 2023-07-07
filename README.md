@@ -36,6 +36,9 @@ jshell
 Everything that starts with a **forward slash** `/` is a **command** in JShell, see below:
 ![jshell-intro](https://github.com/danielurra/java-jshell/assets/51704179/40087d47-fd1f-40db-9d68-e82daeafdf7c)
 
+## JShell Help
+![jshell-help](https://github.com/danielurra/java-jshell/assets/51704179/03052c70-39f0-4646-b85c-acd181f183fd)
+
 ## Eexecute your first Java snippet of code
 **No semicolons needed**</br>
 ```bash
