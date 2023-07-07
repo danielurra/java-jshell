@@ -32,6 +32,10 @@ java --version
 jshell
 ```
 ![jshell-01](https://github.com/danielurra/java/assets/51704179/45345190-7348-4e1d-8361-ad5883d8442f)
+## JShell intro
+Everything that starts with a forward slash `/` is a function in JShell, see below:
+![jshell-intro](https://github.com/danielurra/java-jshell/assets/51704179/40087d47-fd1f-40db-9d68-e82daeafdf7c)
+
 ## Eexecute your first Java snippet of code
 **No semicolons needed**</br>
 ```bash
